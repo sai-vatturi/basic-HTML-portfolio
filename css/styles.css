@@ -4,6 +4,7 @@ h1{
     font-size: x-large;
     padding-right: 5%;
 }
+
 header{
     background-color: rgb(237, 237, 237);
 
@@ -31,6 +32,7 @@ footer{
 body{
     padding: 0;
     margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .content{
     padding-left: 30px;
